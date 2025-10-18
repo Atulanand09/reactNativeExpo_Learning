@@ -8,7 +8,7 @@ const Index = () => {
       justifyContent: "center",
       alignItems: "center"
      }}>
-      <Text style={{fontSize:20,fontWeight:"700",color:"white"}}>Hello , Wllcome to My-First App By Atul Anand 
+      <Text style={{fontSize:20,fontWeight:"700",color:"white"}}>Hii , Wllcome to My-First App By Atul Anand 
       </Text>
       <Link href="/about" style={{marginTop:20,fontSize:16,color:"yellow"}}>Go to About Page</Link>
     </View>
