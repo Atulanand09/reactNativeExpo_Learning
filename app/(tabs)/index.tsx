@@ -1,6 +1,6 @@
-import { View, Text, StyleSheet } from "react-native";
-import React from "react";
 import { Link } from "expo-router";
+import React from "react";
+import { StyleSheet, Text, View } from "react-native";
 
 const Home = () => {
   return (

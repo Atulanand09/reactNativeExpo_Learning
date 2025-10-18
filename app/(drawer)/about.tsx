@@ -1,13 +1,12 @@
 import React from "react";
 import { Text, View } from "react-native";
 
-const Profile = () => {
+const About = () => {
   return (
     <View>
-      <Text>Profile Page</Text>
+        <Text>About</Text>
     </View>
-  );
+    );
 };
 
-export default Profile;
-
+export default About;   
